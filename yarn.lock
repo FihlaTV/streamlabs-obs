@@ -1096,10 +1096,10 @@
   resolved "https://registry.yarnpkg.com/@types/humps/-/humps-1.1.2.tgz#fbcaf596d20ff2ed78f8f511c5d6a943b51101d6"
   integrity sha1-+8r1ltIP8u14+PURxdapQ7URAdY=
 
-"@types/lodash@4.14.115":
-  version "4.14.115"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.115.tgz#54d171b2ce12c058742443b5f6754760f701b8f9"
-  integrity sha512-9K/P4XMQxk61omAzQh3bbbFiqnG17eLcFysjlAYz0aPcYrVo8T+ujaCeIeY0Gpzux7x1YbxtEtLKB7ZWf79qdg==
+"@types/lodash@4.14.129":
+  version "4.14.129"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.129.tgz#9aaca391db126802482655c48dd79a814488202f"
+  integrity sha512-oYaV0eSlnOacOr7i4X1FFdH8ttSlb57gu3I9MuStIv2CYkISEY84dNHYsC3bF6sNH7qYcu1BtVrCtQ8Q4KPTfQ==
 
 "@types/lodash@^4.14.110":
   version "4.14.122"
